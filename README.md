@@ -1,3 +1,5 @@
 # FONT JAPANESSE
 
-sudo pacman -S noto-fonts-cjk noto-fonts-emoji noto-fonts
+> Font Hiragana,katakana,kanji
+
+```sudo pacman -S noto-fonts-cjk noto-fonts-emoji noto-fonts```
