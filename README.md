@@ -1,12 +1,12 @@
-# Font Japanesse
+## Font Japanesse
 
 > sudo pacman -S noto-fonts-cjk noto-fonts-emoji noto-fonts
 
-# Instalasi Ulauncher
+## Instalasi Ulauncher
 
 > yay -S ulauncher
 
-# Instalasi LibreOffice
+## Instalasi LibreOffice
 
 > sudo pacman -S libreoffice-fresh
 
