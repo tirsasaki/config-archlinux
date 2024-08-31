@@ -10,6 +10,4 @@
 
 > sudo pacman -S libreoffice-fresh
 
-> sudo pacman -S libreoffice-still
-
-(STABLE VERSION)
+> sudo pacman -S libreoffice-still (STABLE VERSION)
