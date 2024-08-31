@@ -11,4 +11,5 @@
 > sudo pacman -S libreoffice-fresh
 
 > sudo pacman -S libreoffice-still
+
 (STABLE VERSION)
